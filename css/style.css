@@ -1,5 +1,14 @@
-body {
+body, html {
     background-color: #191919 !important;
+    font-family: sans-serif;
+}
+
+ul li {
+    list-style: none;
+}
+
+p {
+    color: white;
 }
 
 .youtube-logo {
@@ -44,4 +53,8 @@ body {
 
 .background-nav {
     background-color: #232323;
+}
+
+.hr {
+    border: 0.5px solid gray;
 }
