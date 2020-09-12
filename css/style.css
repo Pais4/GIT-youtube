@@ -1,0 +1,38 @@
+.youtube-logo {
+    color: red;
+    font-size: 25px;
+}
+
+.youtube-name {
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 150px;
+}
+
+.youtube-grip {
+    color: white;
+    font-size: 25px;
+    margin-right: 20px;
+}
+
+.input {
+    width: 500px;
+    background-color: #363636;
+    border: 1px solid #686868;
+}
+
+.youtube-button {
+    background-color: #474747;
+    margin-right: 150px;
+}
+
+.icons {
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+.background-nav {
+    background-color: #232323;
+}
