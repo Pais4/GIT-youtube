@@ -1,3 +1,7 @@
+body {
+    background-color: #191919 !important;
+}
+
 .youtube-logo {
     color: red;
     font-size: 25px;
@@ -21,11 +25,16 @@
     width: 500px;
     background-color: #363636;
     border: 1px solid #686868;
+    color: white;
 }
 
 .youtube-button {
     background-color: #474747;
     margin-right: 150px;
+}
+
+.youtube-video {
+    margin: 30px 50px;
 }
 
 .icons {
