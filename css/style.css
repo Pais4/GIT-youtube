@@ -9,6 +9,7 @@ ul li {
 
 p {
     color: white;
+    padding: 0;
 }
 
 .youtube-logo {
@@ -57,4 +58,13 @@ p {
 
 .hr {
     border: 0.5px solid gray;
+}
+
+.margin-test {
+    margin-left: -30px;
+}
+
+.small-text {
+    font-size: 14px;
+    padding: 0%;
 }
