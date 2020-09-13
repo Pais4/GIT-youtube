@@ -33,7 +33,7 @@ p {
 
 .input {
     width: 500px;
-    background-color: #363636;
+    background-color: #191919;
     border: 1px solid #686868;
     color: white;
 }
@@ -61,10 +61,17 @@ p {
 }
 
 .margin-test {
-    margin-left: -30px;
+    margin-left: -40px;
 }
 
 .small-text {
     font-size: 14px;
     padding: 0%;
+}
+
+.input-comentarios {
+    width: 600px;
+    border: none;
+    border-bottom: 0.5px solid gray;
+    background: transparent;
 }
